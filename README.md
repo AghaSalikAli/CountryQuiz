@@ -1,2 +1,2 @@
-# CountryQuiz
- Simple Trivia Game
+# CountryQuiz (GUI)
+Simple Trivia Game
